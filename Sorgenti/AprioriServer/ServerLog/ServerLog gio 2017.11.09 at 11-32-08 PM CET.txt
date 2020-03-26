@@ -1,0 +1,48 @@
+[11:32:08] Server started
+
+[11:32:11] In attesa di connessione...
+
+[11:32:11] Connessione accettata all'indirizzo /127.0.0.1 su numero di porta 8080
+
+[11:32:11] Nuovo client connesso
+
+[11:32:30] Pattern e regole salvate CON SUCCESSO
+
+[11:32:37] Errore durante il caricamento della tabella play
+
+[11:32:44] Client disconnesso
+
+[11:33:17] In attesa di connessione...
+
+[11:33:17] Connessione accettata all'indirizzo /127.0.0.1 su numero di porta 8080
+
+[11:33:17] Nuovo client connesso
+
+[11:33:43] Pattern e regole salvate CON SUCCESSO
+
+[11:34:41] Client disconnesso
+
+[11:35:42] In attesa di connessione...
+
+[11:35:42] Connessione accettata all'indirizzo /127.0.0.1 su numero di porta 8080
+
+[11:35:42] Nuovo client connesso
+
+[11:35:50] Pattern e regole salvate CON SUCCESSO
+
+[11:43:04] Client disconnesso
+
+[11:47:12] In attesa di connessione...
+
+[11:47:12] Connessione accettata all'indirizzo /127.0.0.1 su numero di porta 8080
+
+[11:47:12] Nuovo client connesso
+
+[11:47:19] Client disconnesso
+
+[11:48:44] In attesa di connessione...
+
+[11:48:44] Connessione accettata all'indirizzo /127.0.0.1 su numero di porta 8080
+
+[11:48:44] Nuovo client connesso
+

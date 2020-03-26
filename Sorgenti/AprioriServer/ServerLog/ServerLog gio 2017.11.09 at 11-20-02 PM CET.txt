@@ -1,0 +1,12 @@
+[11:20:02] Server started
+
+[11:20:05] In attesa di connessione...
+
+[11:20:05] Connessione accettata all'indirizzo /127.0.0.1 su numero di porta 8080
+
+[11:20:05] Nuovo client connesso
+
+[11:20:08] File non trovato
+
+[11:20:15] Client disconnesso
+

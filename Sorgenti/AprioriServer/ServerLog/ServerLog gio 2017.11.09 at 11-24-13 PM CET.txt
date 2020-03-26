@@ -1,0 +1,16 @@
+[11:24:13] Server started
+
+[11:24:17] In attesa di connessione...
+
+[11:24:17] Connessione accettata all'indirizzo /127.0.0.1 su numero di porta 8080
+
+[11:24:17] Nuovo client connesso
+
+[11:24:43] Pattern e regole salvate CON SUCCESSO
+
+[11:26:08] Errore durante il caricamento della tabella sad
+
+[11:26:12] Errore durante il caricamento della tabella sad
+
+[11:26:57] Client disconnesso
+

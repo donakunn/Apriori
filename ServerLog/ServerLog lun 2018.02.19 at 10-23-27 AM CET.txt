@@ -1,0 +1,14 @@
+[10:23:27] Server started
+
+[10:23:30] In attesa di connessione...
+
+[10:23:30] Connessione accettata all'indirizzo /127.0.0.1 su numero di porta 8080
+
+[10:23:31] Nuovo client connesso
+
+[10:23:48] Errore durante il salvataggio del file
+
+[10:23:48] Pattern e regole salvate CON SUCCESSO
+
+[10:24:10] Client disconnesso
+

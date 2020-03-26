@@ -1,0 +1,30 @@
+[06:33:19] Server started
+
+[06:33:27] In attesa di connessione...
+
+[06:33:27] Connessione accettata all'indirizzo /127.0.0.1 su numero di porta 8080
+
+[06:33:28] Nuovo client connesso
+
+[06:33:32] Client disconnesso
+
+[06:38:39] In attesa di connessione...
+
+[06:38:39] Connessione accettata all'indirizzo /127.0.0.1 su numero di porta 8080
+
+[06:38:39] Nuovo client connesso
+
+[06:38:44] Client disconnesso
+
+[06:38:46] In attesa di connessione...
+
+[06:38:46] Connessione accettata all'indirizzo /127.0.0.1 su numero di porta 8080
+
+[06:38:46] Nuovo client connesso
+
+[06:39:05] Pattern e regole salvate CON SUCCESSO
+
+[06:39:12] Errore durante il caricamento della tabella playtenni
+
+[06:39:18] Client disconnesso
+

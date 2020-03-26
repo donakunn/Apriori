@@ -1,0 +1,16 @@
+[06:49:39] Server started
+
+[06:49:40] In attesa di connessione...
+
+[06:49:40] Connessione accettata all'indirizzo /127.0.0.1 su numero di porta 8080
+
+[06:49:41] Nuovo client connesso
+
+[06:50:02] Errore durante il caricamento della tabella playt
+
+[06:50:08] Errore durante il salvataggio del file
+
+[06:50:08] Pattern e regole salvate CON SUCCESSO
+
+[06:50:13] Client disconnesso
+
